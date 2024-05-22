@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-event",
+  "version": "1.0.0",
+  "description": "to show full project NODEJS and Mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "my",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "jquery": "^3.7.1"
+  }
+}
